@@ -1,5 +1,5 @@
 # odin-recipes
-Recipes project from HTML Foundations section from Foundations course on The Odin Project.
+Recipes project from HTML Foundations section of the Foundations course on The Odin Project.
 
 ### Project Description
 A basic recipe website that will consist of a main index page which will have links to a few recipes.
